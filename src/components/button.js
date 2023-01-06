@@ -1,9 +1,7 @@
 import "./button.css";
 
-
 const button = () => {
-    return <div className=" button-wrapper"> TEST</div>;
-
+    return <div>1</div>;
 };
 
 export default button; 
